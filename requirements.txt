@@ -1,0 +1,5 @@
+# requirements.txt
+# Thêm các thư viện Python cần thiết cho dự án này vào đây
+pandas
+numpy
+requests
